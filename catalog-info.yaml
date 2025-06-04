@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: AIProject002
+  description: AIProject002 test
+spec:
+  type: service
+  owner: Aditya
+  lifecycle: production
